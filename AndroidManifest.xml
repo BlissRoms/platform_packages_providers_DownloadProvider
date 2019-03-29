@@ -59,7 +59,8 @@
 
     <application android:process="android.process.media"
                  android:label="@string/app_label"
-                 android:icon="@mipmap/ic_launcher_download"
+                 android:icon="@mipmap/ic_launcher_downloads"
+                 android:roundIcon="@mipmap/ic_launcher_downloads_round"
                  android:allowBackup="false"
                  android:supportsRtl="true"
                  android:usesCleartextTraffic="true">
